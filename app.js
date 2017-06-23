@@ -1,4 +1,4 @@
-var sql = require("mssql");
+//var sql = require("mssql");
 var express = require("express");
 var app = express();
 
