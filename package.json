@@ -1,0 +1,23 @@
+{
+  "name": "node-js-testing",
+  "version": "1.0.0",
+  "description": "node-js-testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfeather/node-js-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfeather/node-js-testing/issues"
+  },
+  "homepage": "https://github.com/adamfeather/node-js-testing#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mssql": "^4.0.4"
+  }
+}
